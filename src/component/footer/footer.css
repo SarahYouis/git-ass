@@ -1,0 +1,15 @@
+.footDiv
+{
+    justify-content: center;
+    background-color:  rgb(100, 98, 98);
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    color: floralwhite;
+    padding-top: 20px;
+    height: 120px;
+}
+.footDiv button
+{
+    border-color: white;
+}
