@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.firstDiv
+{
+    padding: 0%;
+    text-align: center;
+}
+.nav
+{
+    background-image: url('./1.jpg');
+    background-repeat: no-repeat;
+    height: 400px;
+   
+}
+.con
+{
+    padding-top: 6rem;
+    color: white;
+}
